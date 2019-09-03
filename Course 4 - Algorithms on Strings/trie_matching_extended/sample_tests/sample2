@@ -1,0 +1,5 @@
+ACATA
+3
+AT
+A
+AG

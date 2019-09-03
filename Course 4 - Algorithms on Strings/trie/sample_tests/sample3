@@ -1,0 +1,4 @@
+3
+ATAGA
+ATC
+GAT
