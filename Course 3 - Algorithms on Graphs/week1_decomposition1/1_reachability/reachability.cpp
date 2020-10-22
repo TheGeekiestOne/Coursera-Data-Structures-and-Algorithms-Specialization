@@ -1,14 +1,5 @@
 #include <iostream>
 #include <vector>
-
-/*
-* Author: Ayran Olckers
-* Website https://ayran.dev
-* Respect Coursera Honor Code
-* Copyright © 2019. All rights reserved
-*
-*/
-
 using std::vector;
 using std::pair;
 
